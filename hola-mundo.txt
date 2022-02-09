@@ -1,1 +1,5 @@
-hola
+Bonjour le monde
+Hallo Welt
+Ciao mondo
+Hola, mundo
+Olá mundo
